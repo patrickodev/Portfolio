@@ -1,0 +1,19 @@
+{
+  "Apresentation": {
+    "apresentation": "Olá, 👋🏽 eu sou Patrick Oliveira",
+    "about": "Sou desenvolvedor web com especialidade em front-end. Tenho {age} anos e sou apaixonado por tecnologia.",
+    "resume": "Currículo"
+  },
+  "Navbar": {
+    "about": "Sobre",
+    "projects": "Projetos",
+    "skills": "Tecnologias",
+    "contact": "Contato"
+  },
+  "Section": {
+    "about": "Sobre",
+    "projects": "Projetos",
+    "skills": "Tecnologias",
+    "contact": "Contato"
+  }
+}
