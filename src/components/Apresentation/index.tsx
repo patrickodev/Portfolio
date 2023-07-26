@@ -10,10 +10,10 @@ export function Apresentation() {
 
   const getResume = (currentLocale: string) => {
     if (currentLocale === "en-US") {
-      return "en";
+      return "https://l1nk.dev/W1RT8";      
     }
 
-    return "pt";
+    return "https://l1nk.dev/D3tSY";
   }
 
 
